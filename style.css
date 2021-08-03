@@ -1,0 +1,35 @@
+
+h1 {
+    color:#FF0000;
+}
+
+/* * {
+    border:solid;
+}
+*/
+
+.header{
+    background-color: #FFE5B4;
+    display: flex;
+    justify-content:space-between;
+    margin-right:888;
+}
+
+.grid{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content:space-evenly;
+}
+
+.footer{
+    display: flex;
+    justify-content:flex-end;
+}
+
+p,h2 {
+    text-align: center;
+}
+
+body{
+    background-color:#40E0D0;
+}
